@@ -1,0 +1,1 @@
+int InstantNumberTransfer(char instantnumber[]);
